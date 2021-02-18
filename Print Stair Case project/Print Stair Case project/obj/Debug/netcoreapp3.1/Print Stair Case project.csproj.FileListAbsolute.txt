@@ -1,0 +1,13 @@
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\bin\Debug\netcoreapp3.1\Print Stair Case project.exe
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\bin\Debug\netcoreapp3.1\Print Stair Case project.deps.json
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\bin\Debug\netcoreapp3.1\Print Stair Case project.runtimeconfig.json
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\bin\Debug\netcoreapp3.1\Print Stair Case project.runtimeconfig.dev.json
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\bin\Debug\netcoreapp3.1\Print Stair Case project.dll
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\bin\Debug\netcoreapp3.1\Print Stair Case project.pdb
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\obj\Debug\netcoreapp3.1\Print Stair Case project.csprojAssemblyReference.cache
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\obj\Debug\netcoreapp3.1\Print Stair Case project.AssemblyInfoInputs.cache
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\obj\Debug\netcoreapp3.1\Print Stair Case project.AssemblyInfo.cs
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\obj\Debug\netcoreapp3.1\Print Stair Case project.csproj.CoreCompileInputs.cache
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\obj\Debug\netcoreapp3.1\Print Stair Case project.dll
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\obj\Debug\netcoreapp3.1\Print Stair Case project.pdb
+C:\Users\Capti\OneDrive\Desktop\Project\Print Stair Case project\Print Stair Case project\obj\Debug\netcoreapp3.1\Print Stair Case project.genruntimeconfig.cache
